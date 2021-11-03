@@ -1,6 +1,1 @@
--Hi, I’m @Andrea-Sapei
--I'm interested in Finance
--Currently learning Python, with bits of SQL and HTML here and there
--
--contact: andrea.sapei@edu.unito.it
-
+My name is Andrea Sapei, and I'm a Business Student at the University of Turin. I'm passionate about Finance and Economics and I'm currently mainly learning Python
